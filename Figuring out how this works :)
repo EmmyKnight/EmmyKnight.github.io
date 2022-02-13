@@ -9,6 +9,8 @@ h1 { color: #5326d9;
 font-family: "Lucida Console", "Courier New", monspace;
 margin: 25px 25px 75px;
 border: 2px solid black;
+text-align: center;
+}
 </style>
 </head>
 <body>
