@@ -1,19 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body { background-color: #200080;
-} 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru&display=swap" rel="stylesheet">
 
+<style>
+body { background-color: #000d1a;
+} 
 h1 { color: #5326d9;
-font-family: "Lucida Console", "Courier New", monspace;
-margin: 25px 25px 75px;
-border: 2px solid black;
+font-family: "Nothing You Could Do", cursive;
+font-size: 50px;
+margin: 100px 50px 50px;
+padding: 25px 25px 25px 25px;
+border: 2px  solid #e6005c;
 text-align: center;
+}
+p { color: #000080;
+	font-family: "Kiwi Maru", serif;
+    font-size: 20px;
+    text-align: center;
 }
 </style>
 </head>
 <body>
 <h1>Welcome to the Fight, Learn About Women's Rights</h1>
+<p>Women of all shapes and sizes and colors and backgrounds<br>deserve to have the same rights and opportunities as everyone else,<br>but the world isn't there yet.<br>Feel free to explore this website to learn more and see what we can do about it.</p>
 </body>
-
