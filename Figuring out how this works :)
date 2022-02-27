@@ -11,15 +11,37 @@
 <style>
 body { background-color: #000d1a;
 } 
-h1 { color: #5326d9;
+h1 { color: #00ffff;
 font-family: "Nothing You Could Do", cursive;
 font-size: 50px;
 margin: 100px 50px 50px;
 padding: 25px 25px 25px 25px;
-border: 2px  solid #e6005c;
+border: 4px  solid #ff00bf;
 text-align: center;
 }
+/*
 p { color: #000080;
+	font-family: "Kiwi Maru", serif;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+h2 {color: #0000ff;
+	font-family: "Kiwi Maru", serif;
+    font-size: 20px;
+    text-align: center;
+}
+h3 {color: #8a00e6;
+	font-family: "Kiwi Maru", serif;
+    font-size: 20px;
+    text-align: center;
+}
+h4 {color: #cc00ff;
+	font-family: "Kiwi Maru", serif;
+    font-size: 20px;
+    text-align: center;
+}
+h5 {color: #ff00bf;
 	font-family: "Kiwi Maru", serif;
     font-size: 20px;
     text-align: center;
@@ -28,5 +50,12 @@ p { color: #000080;
 </head>
 <body>
 <h1>Welcome to the Fight, Learn About Women's Rights</h1>
+<!--
 <p>Women of all shapes and sizes and colors and backgrounds<br>deserve to have the same rights and opportunities as everyone else,<br>but the world isn't there yet.<br>Feel free to explore this website to learn more and see what we can do about it.</p>
+-->
+<h2>Women of all shapes and sizes and colors and backgrounds</h2>
+<h3>deserve to have the same rights and opportunities as everyone else,</h3>
+<h4>but the world isn't there yet.</h4>
+<h5> Feel free to explore this website to learn more and see what we can do about it</h5>
+
 </body>
