@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap" rel="stylesheet">
+<style>
+body {background-color: #050515;
+}
+h1 {text-align: center;
+	font-family: "Nothing You Could Do", cursive;
+	font-size: 50px;
+    color: #ff1875;
+    margin: 50px 50px 25px;
+	padding: 25px 25px 15px 25px;
+	border: 4px  solid #00e6e6;
+}
+h2 {text-align: center;
+	font-size: 35px;
+    color: #cc9900;  
+    font-family: 'Julius Sans One', sans-serif;
+}
+</style>
+</head>
+<body>
+<h1>END GOALS</h1>
+<h2>What we're fighting for and why</h2>
+</body>
