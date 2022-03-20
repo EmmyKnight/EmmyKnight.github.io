@@ -46,6 +46,11 @@ h5 {color: #ff00bf;
     font-size: 20px;
     text-align: center;
 }
+p {color: #cc9900;
+   font-family: "Kiwi Maru", serif;
+   font-size: 15 px;
+   text-align: left;
+}
 </style>
 </head>
 <body>
@@ -57,5 +62,5 @@ h5 {color: #ff00bf;
 <h3>deserve to have the same rights and opportunities as everyone else,</h3>
 <h4>but the world isn't there yet.</h4>
 <h5> Feel free to explore this website to learn more and see what we can do about it</h5>
-
+<p>As a disclaimer, the statistics shared on this website will be maibnly based on the US. It's important to do your own research based on where you live.</p>
 </body>
