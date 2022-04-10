@@ -35,7 +35,10 @@ h3 {text-align: left;
 p  {text-align: left;
 	color: #669999;
     font-family: 'Kiwi Maru', serif;
-    margin: 5px;
+    margin: 10px;
+    text-indent: 20px;
+}
+img {margin: 2px 10px;
 }
 </style>
 </head>
@@ -43,7 +46,9 @@ p  {text-align: left;
 <h1>END GOALS</h1>
 <h2>What We're Fighting For and Why</h2>
 <h3>Equal Pay</h3>
-<p>According to the United States Bureau of Labor Statistics, "In 2020, women who were full-time wage and salary workers had median usual weekly earnings that were 82 percent of those of male full-time wage and salary workers." March 24th is known as Equal Pay Day, and, as the U.S. Department of Labor explains it, "March 24 is Equal Pay Day, a symbolic day that represents the number of extra days women, on average, must work to earn what men, on average, earned the year before." But this date isn't true for all women. Women of color, queer women, and transgender women all have different "Equal Pay Days". Janelle Jones, a writer for the U.S. Department of Labor writes, "The wage gap is even greater for many women. To earn what white, non-Hispanic men earned in 2020, Asian American and Pacific Islander women had to work until March 9. Mothers won’t catch up until June 4 (compared with fathers, on average). For many women of color, Equal Pay Day falls later and later into the year. For Black women it is not until Aug. 3. For Native American women it is not until Sept. 8. Lastly, for Latinas, Equal Pay Day is more than 9 months into the year on Oct. 21." This doesn't even include queer women, who, according to the Human Rights Campaign, have a wage gap of 13% compared to the typical worker. Transgender women, according to the same website, earn 60 cents to every dollar earned by a typical US worker. This needs to change.</p>
+<p>According to the United States Bureau of Labor Statistics, "In 2020, women who were full-time wage and salary workers had median usual weekly earnings that were 82 percent of those of male full-time wage and salary workers." March 24th is known as Equal Pay Day, and, as the U.S. Department of Labor explains it, "March 24 is Equal Pay Day, a symbolic day that represents the number of extra days women, on average, must work to earn what men, on average, earned the year before."</p>
+<img src="businesslady.jpg" alt="Business lady being awesome" style="width: 300px;">
+<p>But this date isn't true for all women. Women of color, queer women, and transgender women all have different "Equal Pay Days". Janelle Jones, a writer for the U.S. Department of Labor writes, "The wage gap is even greater for many women. To earn what white, non-Hispanic men earned in 2020, Asian American and Pacific Islander women had to work until March 9. Mothers won’t catch up until June 4 (compared with fathers, on average). For many women of color, Equal Pay Day falls later and later into the year. For Black women it is not until Aug. 3. For Native American women it is not until Sept. 8. Lastly, for Latinas, Equal Pay Day is more than 9 months into the year on Oct. 21." This doesn't even include queer women, who, according to the Human Rights Campaign, have a wage gap of 13% compared to the typical worker. Transgender women, according to the same website, earn 60 cents to every dollar earned by a typical US worker. This needs to change.</p>
 <h3>Equal Opportunities</h3>
-<p>The idea of equal opportunities is that employees won't be discriminated against based on factors like race, sex, gender identity, sexual orientation, or age.</p>
+<p>The idea of equal opportunities is that employees won't be discriminated against based on factors like race, sex, gender identity, sexual orientation, or age. As it is, all of the descriptors listed above do factor into who gets hired and who gets promoted. Fortunately, in the US at least, (according to eeoc.gov) "Employees and applicants for employment with the EEOC who believe that they have been discriminated against by an EEOC employment decision...may pursue such claims through the discrimination complaint process administered by the EEOC's Office of Equal Opportunity."</p>
 </body>
